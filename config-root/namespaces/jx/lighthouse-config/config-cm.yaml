@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - rajatgupta24/cluster-12
-      target_url: http://lighthouse.jx./merge/status
+      target_url: http://lighthouse.jx.a320ms2h4027c670.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null

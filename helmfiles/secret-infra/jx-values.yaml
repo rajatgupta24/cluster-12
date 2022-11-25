@@ -38,7 +38,7 @@ jxRequirements:
     repository: cluster-12
   - key: staging
   ingress:
-    domain: change.me
+    domain: a320ms2h4027c670.nip.io
     ignoreLoadBalancer: true
     kind: ingress
     namespaceSubDomain: .secret-infra.
